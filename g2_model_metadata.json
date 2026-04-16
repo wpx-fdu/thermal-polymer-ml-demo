@@ -1,0 +1,24 @@
+{
+  "model_group": "G2",
+  "train_samples": 19,
+  "feature_names": [
+    "Polymer_Main",
+    "Molecular_Weight_gmol",
+    "Polymer_Concentration_wt_pct",
+    "IL_Cation",
+    "IL_Anion",
+    "Has_Salt"
+  ],
+  "supported_polymers": [
+    "PBA",
+    "PnBMA"
+  ],
+  "supported_cations": [
+    "[BMIM]",
+    "[C3MIM]"
+  ],
+  "supported_anions": [
+    "[NTf2]",
+    "[TFSA]"
+  ]
+}
